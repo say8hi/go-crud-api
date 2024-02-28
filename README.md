@@ -29,7 +29,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API example in Go for inter
 ## Project Structure
 
 ```bash
-go-postgresql-crud/
+go-crud-api/
 |- main.go
 |- handlers/
 | |- users.go
